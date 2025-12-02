@@ -2,8 +2,8 @@
   background-image: url('https://c8.alamy.com/comp/2H2TFM9/backend-developer-text-written-on-programming-code-abstract-technology-background-of-software-developer-and-computer-script-backend-developer-concept-2H2TFM9.jpg');
   background-size: cover;
   background-position: center;
-  padding: 60px;
-  border-radius: 15px;
+  padding: 60;
+  border-radius: 15;
   text-align: center;
   color: white;
   font-weight: bold;
