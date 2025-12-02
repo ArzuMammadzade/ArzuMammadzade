@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=aesthetic%20cover%20photo%20for%20java%20backend%20developer%20in%20github&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5616AQFpjnEDL7oBbQ%2Fprofile-displaybackgroundimage-shrink_200_800%2Fprofile-displaybackgroundimage-shrink_200_800%2F0%2F1712490034107%3Fe%3D2147483647%26v%3Dbeta%26t%3DYe3A85y7ExgWN0yzvvlhEYaYR0OINKJDD23Jc-J9BYg&imgrefurl=https%3A%2F%2Fin.linkedin.com%2Fin%2Fmohd-suhaib-khan-30706b1a7%2Fhi&docid=8bF9ebZ3aa1SEM&tbnid=kPUUb2CmXzm6BM&vet=12ahUKEwiO5fG09Z-RAxXuVfEDHeT1OTAQM3oECBsQAA..i&w=800&h=200&hcb=2&ved=2ahUKEwiO5fG09Z-RAxXuVfEDHeT1OTAQM3oECBsQAA)
+[![MasterHead](https://stock.adobe.com/az/images/java-programming-concept-with-glowing-letters/927240446)
 <h1 align="center">Hi 👋, I'm Arzu</h1>
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
 
