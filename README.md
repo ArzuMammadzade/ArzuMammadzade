@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=aesthetic%20cover%20photo%20for%20java%20backend%20developer%20in%20github&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5616AQHoo6Iy0-sWuw%2Fprofile-displaybackgroundimage-shrink_200_800%2Fprofile-displaybackgroundimage-shrink_200_800%2F0%2F1692032467053%3Fe%3D2147483647%26v%3Dbeta%26t%3DSVmiPaoCKE7ja67a5Ksi4TCnijKtzXPvGYe15YL2TO8&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhasanainalameen&docid=IdoFHOjPsup_4M&tbnid=L_37-DeKZDCGvM&vet=12ahUKEwiUuofO6J-RAxUrRPEDHWHGEZcQM3oECHoQAA..i&w=800&h=200&hcb=2&ved=2ahUKEwiUuofO6J-RAxUrRPEDHWHGEZcQM3oECHoQAA) <h1 align="center">Hi 👋, I'm Arzu</h1>
+ <h1 align="center">Hi 👋, I'm Arzu</h1>
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **Java**
