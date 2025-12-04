@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **IT engineering**
 
-- 👨‍💻 All of my projects are available at [Github/@ArzuMammadzade](Github/@ArzuMammadzade)
+- 👨‍💻 All of my projects are available at [(https://www.linkedin.com/in/arzu-mammadzade-403409398/)
 
 - 📫 How to reach me **mammadzadawork@gmail.com**
 
